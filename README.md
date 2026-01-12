@@ -1,4 +1,4 @@
-# CSCI-271-Emma
+# CSCI271_GitIntro_EmmaSmith
 # My First GitHub Repository
 This is my very first repository on GitHub!
 **Author:** [Emma Smith]
